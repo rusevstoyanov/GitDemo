@@ -1,0 +1,55 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Click on animal button",
+        "description": "",
+        "id": "usda-home-page;click-on-animal-button",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "User navigate to home page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "User click on topics button,topics dropdown should display",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "User click on animals button",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 2,
+            "name": "@test"
+          }
+        ]
+      }
+    ],
+    "name": "USDA home page",
+    "description": "",
+    "id": "usda-home-page",
+    "keyword": "Feature",
+    "uri": "src/test/java/features/homePage.feature"
+  }
+]
