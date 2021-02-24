@@ -14,6 +14,11 @@ public void user_navigate_to_homePage() throws Throwable {
     System.out.println("heasdfllo world");
     System.out.println("hello wasgaorld");
     System.out.println("hello world");
+    System.out.println("hello wasgaorld");
+    System.out.println("hello world");
+    System.out.println("hello wasgaorld");
+    System.out.println("hello world");
+    
 }
 
 @When("^User click on topics button,dropdown menu should display$")
